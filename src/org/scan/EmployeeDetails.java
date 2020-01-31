@@ -19,5 +19,7 @@ public static void main(String[] args) {
 	String empGender= sc.next();
 	System.out.println("Please enter Employee City");
 	String empCity= sc.next();
+	//ffvgbrf
+	//dfghjk
 }
 }
